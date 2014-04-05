@@ -1,4 +1,4 @@
-Wine Tracking Web App - Development In progress
+Wine Tracking Web App - Development In Progress
 
 This web app helps keep track of wines either in your current collection or past wines that you have liked.
 
